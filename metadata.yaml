@@ -1,0 +1,36 @@
+_repo: M-rchen-f-r-Kinder_19163
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19163-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2006-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19163'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Denmark'
+- !lcc 'PT'
+tableOfContents: "Däumelieschen\r\nDie Störche\r\nDer fliegende Koffer\r\nDer Schneemann\r\
+  \nEs ist ein Unterschied\r\nDas Feuerzeug\r\nDas häßliche Entlein\r\nDie Stopfnadel\r\
+  \nTölpelhans\r\nFünf in der Schote\r\nDas Märchen vom Sandmann\r\nDie Theekanne\r\
+  \nDie Blumen der kleinen Ida\r\nDas kleine Mädchen mit den Schwefelhölzern\r\nDie\
+  \ wilden Schwäne\r\nDie glückliche Familie\r\nDer Engel\r\nDer standhafte Zinnsoldat\r\
+  \nDes Kaisers Nachtigall\r\nDie Schneekönigin\r\nFliedermütterchen\r\nDer Tannenbaum\r\
+  \nDas alte Haus\r\nDer Buchweizen\r\nDie roten Schuhe"
+title: Märchen für Kinder
+url: http://www.gutenberg.org/ebooks/19163
